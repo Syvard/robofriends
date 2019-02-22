@@ -13,8 +13,8 @@ export const robots = [
   },
   {
     id: 3,
-    name: 'Nathan',
-    username: 'NoobTube70',
+    name: 'Anna',
+    username: 'ProStar420',
     email: 'Noob@tube.com'
   },
   {
